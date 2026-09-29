@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting-sort",
+    "name": "Counting Sort"
+  },
+  "updatedAt": "2026-09-29T07:18:23.994Z",
+  "problems": [
+    {
+      "frontendId": "274",
+      "title": "H-Index",
+      "slug": "h-index",
+      "problemName": "0274-h-index",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/h-index/",
+      "folderPath": "0274-h-index/",
+      "readmePath": "0274-h-index/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0274-h-index.py",
+          "path": "0274-h-index/0274-h-index.py",
+          "sha": "d94c47ffc7cd318f81ca8bc5bb6c56423a04bcb7",
+          "lastSyncedAt": "2026-09-29T07:18:23.994Z"
+        }
+      ]
+    }
+  ]
+}
