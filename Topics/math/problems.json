@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T07:22:40.523Z",
+  "updatedAt": "2026-09-29T07:22:49.672Z",
   "problems": [
     {
       "frontendId": "9",
@@ -203,6 +203,26 @@
           "path": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.py",
           "sha": "a8d40aa52811cceab95ce9ee343a4e5d9f09448a",
           "lastSyncedAt": "2026-09-29T07:21:18.895Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1342",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "problemName": "1342-number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+      "folderPath": "1342-number-of-steps-to-reduce-a-number-to-zero/",
+      "readmePath": "1342-number-of-steps-to-reduce-a-number-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1342-number-of-steps-to-reduce-a-number-to-zero.py",
+          "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.py",
+          "sha": "3ae9c7ed2c85b9780f80695c38a754e366d817cd",
+          "lastSyncedAt": "2026-09-29T07:22:49.672Z"
         }
       ]
     }
