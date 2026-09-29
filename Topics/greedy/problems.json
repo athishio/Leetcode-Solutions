@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-29T07:16:16.357Z",
+  "updatedAt": "2026-09-29T07:18:35.472Z",
   "problems": [
     {
       "frontendId": "45",
@@ -63,6 +63,26 @@
           "path": "0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.py",
           "sha": "fbf1233284d9d2e2caef1d4166a8ca223c57da24",
           "lastSyncedAt": "2026-09-29T07:14:12.419Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "134",
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "problemName": "0134-gas-station",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/gas-station/",
+      "folderPath": "0134-gas-station/",
+      "readmePath": "0134-gas-station/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0134-gas-station.py",
+          "path": "0134-gas-station/0134-gas-station.py",
+          "sha": "a594684cb32fe3604327a7da79b9ffc49ddda58e",
+          "lastSyncedAt": "2026-09-29T07:18:35.472Z"
         }
       ]
     }
