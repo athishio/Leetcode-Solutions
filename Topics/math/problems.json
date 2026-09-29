@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T07:15:36.828Z",
+  "updatedAt": "2026-09-29T07:15:52.076Z",
   "problems": [
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0066-plus-one.py",
+          "path": "0066-plus-one/0066-plus-one.py",
+          "sha": "b2fb43aa91bab9768a2da54339b13ae493ccc756",
+          "lastSyncedAt": "2026-09-29T07:15:52.076Z"
+        }
+      ]
+    },
     {
       "frontendId": "67",
       "title": "Add Binary",
