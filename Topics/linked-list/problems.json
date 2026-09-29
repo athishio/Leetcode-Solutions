@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T07:20:00.790Z",
+  "updatedAt": "2026-09-29T07:23:43.511Z",
   "problems": [
     {
       "frontendId": "21",
@@ -43,6 +43,26 @@
           "path": "0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.py",
           "sha": "51115e6737fd98c4e8c88b0cc4c8de65b76888d5",
           "lastSyncedAt": "2026-09-29T07:14:44.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "problemName": "0203-remove-linked-list-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "folderPath": "0203-remove-linked-list-elements/",
+      "readmePath": "0203-remove-linked-list-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0203-remove-linked-list-elements.py",
+          "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.py",
+          "sha": "8b68c91d5cfd9742c3a96f0ee8ef5f2399d5fd20",
+          "lastSyncedAt": "2026-09-29T07:23:43.511Z"
         }
       ]
     },
