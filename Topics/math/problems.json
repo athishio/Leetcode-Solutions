@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T07:15:11.770Z",
+  "updatedAt": "2026-09-29T07:15:26.090Z",
   "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "0069-sqrtx/",
+      "readmePath": "0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0069-sqrtx.py",
+          "path": "0069-sqrtx/0069-sqrtx.py",
+          "sha": "1e123ee832eb5a6224a2d4f02e3148c984db53da",
+          "lastSyncedAt": "2026-09-29T07:15:26.090Z"
+        }
+      ]
+    },
     {
       "frontendId": "70",
       "title": "Climbing Stairs",
