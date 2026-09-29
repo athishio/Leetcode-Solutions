@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:24:53.100Z",
+  "updatedAt": "2026-09-29T07:25:01.027Z",
   "problems": [
     {
       "frontendId": "1",
@@ -583,6 +583,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
           "sha": "d391b68f0daf4615a3157a996b42a31d7bd9ee47",
           "lastSyncedAt": "2026-09-29T07:23:49.947Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1528",
+      "title": "Shuffle String",
+      "slug": "shuffle-string",
+      "problemName": "1528-shuffle-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-string/",
+      "folderPath": "1528-shuffle-string/",
+      "readmePath": "1528-shuffle-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1528-shuffle-string.py",
+          "path": "1528-shuffle-string/1528-shuffle-string.py",
+          "sha": "66e9fc710828eeb7f41cce6ee0f28d47801eb2f9",
+          "lastSyncedAt": "2026-09-29T07:25:01.027Z"
         }
       ]
     },
