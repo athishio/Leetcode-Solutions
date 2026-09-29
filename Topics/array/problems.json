@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:24:38.788Z",
+  "updatedAt": "2026-09-29T07:24:45.365Z",
   "problems": [
     {
       "frontendId": "1",
@@ -583,6 +583,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
           "sha": "d391b68f0daf4615a3157a996b42a31d7bd9ee47",
           "lastSyncedAt": "2026-09-29T07:23:49.947Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1773",
+      "title": "Count Items Matching a Rule",
+      "slug": "count-items-matching-a-rule",
+      "problemName": "1773-count-items-matching-a-rule",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-items-matching-a-rule/",
+      "folderPath": "1773-count-items-matching-a-rule/",
+      "readmePath": "1773-count-items-matching-a-rule/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1773-count-items-matching-a-rule.py",
+          "path": "1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.py",
+          "sha": "4fe2f0dcd681432225a81b6ade3a8978ccb284c4",
+          "lastSyncedAt": "2026-09-29T07:24:45.365Z"
         }
       ]
     },
