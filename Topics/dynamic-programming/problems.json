@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-29T07:15:11.770Z",
+  "updatedAt": "2026-09-29T07:16:07.348Z",
   "problems": [
+    {
+      "frontendId": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "problemName": "0055-jump-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+      "folderPath": "0055-jump-game/",
+      "readmePath": "0055-jump-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0055-jump-game.py",
+          "path": "0055-jump-game/0055-jump-game.py",
+          "sha": "f7692eb1fda25fce1717d6be40387bcf59c2225d",
+          "lastSyncedAt": "2026-09-29T07:16:07.348Z"
+        }
+      ]
+    },
     {
       "frontendId": "70",
       "title": "Climbing Stairs",
