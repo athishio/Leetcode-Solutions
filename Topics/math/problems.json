@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T07:15:26.090Z",
+  "updatedAt": "2026-09-29T07:15:36.828Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0067-add-binary.py",
+          "path": "0067-add-binary/0067-add-binary.py",
+          "sha": "eefaba23087f42913539c5bb0b0a100e44b7c96d",
+          "lastSyncedAt": "2026-09-29T07:15:36.828Z"
+        }
+      ]
+    },
     {
       "frontendId": "69",
       "title": "Sqrt(x)",
