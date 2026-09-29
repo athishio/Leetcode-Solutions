@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "heap-priority-queue",
+    "name": "Heap (Priority Queue)"
+  },
+  "updatedAt": "2026-09-29T07:21:25.563Z",
+  "problems": [
+    {
+      "frontendId": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "problemName": "1464-maximum-product-of-two-elements-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+      "folderPath": "1464-maximum-product-of-two-elements-in-an-array/",
+      "readmePath": "1464-maximum-product-of-two-elements-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1464-maximum-product-of-two-elements-in-an-array.py",
+          "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.py",
+          "sha": "e3747723e7ab667a7065bd9b10eb5af24aeeb937",
+          "lastSyncedAt": "2026-09-29T07:21:25.563Z"
+        }
+      ]
+    }
+  ]
+}
