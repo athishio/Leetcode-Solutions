@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T07:20:21.355Z",
+  "updatedAt": "2026-09-29T07:20:36.614Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,6 +143,26 @@
           "path": "0389-find-the-difference/0389-find-the-difference.py",
           "sha": "54f9755d622c2ee2d46605576fd3d5aa98210d7e",
           "lastSyncedAt": "2026-09-29T07:19:48.593Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "409",
+      "title": "Longest Palindrome",
+      "slug": "longest-palindrome",
+      "problemName": "0409-longest-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome/",
+      "folderPath": "0409-longest-palindrome/",
+      "readmePath": "0409-longest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0409-longest-palindrome.py",
+          "path": "0409-longest-palindrome/0409-longest-palindrome.py",
+          "sha": "79479b0704afaf8d6e6dc48d7d08a733a70b4b32",
+          "lastSyncedAt": "2026-09-29T07:20:36.614Z"
         }
       ]
     }
