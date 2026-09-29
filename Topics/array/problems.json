@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:14:32.563Z",
+  "updatedAt": "2026-09-29T07:14:51.408Z",
   "problems": [
+    {
+      "frontendId": "80",
+      "title": "Remove Duplicates from Sorted Array II",
+      "slug": "remove-duplicates-from-sorted-array-ii",
+      "problemName": "0080-remove-duplicates-from-sorted-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+      "folderPath": "0080-remove-duplicates-from-sorted-array-ii/",
+      "readmePath": "0080-remove-duplicates-from-sorted-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0080-remove-duplicates-from-sorted-array-ii.py",
+          "path": "0080-remove-duplicates-from-sorted-array-ii/0080-remove-duplicates-from-sorted-array-ii.py",
+          "sha": "b8e274c61adf9eeb715e0342be8fd80eb0ca95e4",
+          "lastSyncedAt": "2026-09-29T07:14:51.408Z"
+        }
+      ]
+    },
     {
       "frontendId": "88",
       "title": "Merge Sorted Array",
