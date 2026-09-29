@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-29T07:19:40.008Z",
+  "updatedAt": "2026-09-29T07:19:48.593Z",
   "problems": [
     {
       "frontendId": "15",
@@ -123,6 +123,26 @@
           "path": "0274-h-index/0274-h-index.py",
           "sha": "d94c47ffc7cd318f81ca8bc5bb6c56423a04bcb7",
           "lastSyncedAt": "2026-09-29T07:18:23.994Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "0389-find-the-difference/",
+      "readmePath": "0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0389-find-the-difference.py",
+          "path": "0389-find-the-difference/0389-find-the-difference.py",
+          "sha": "54f9755d622c2ee2d46605576fd3d5aa98210d7e",
+          "lastSyncedAt": "2026-09-29T07:19:48.593Z"
         }
       ]
     }
