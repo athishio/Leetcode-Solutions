@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T07:22:56.219Z",
+  "updatedAt": "2026-09-29T07:23:01.873Z",
   "problems": [
     {
       "frontendId": "9",
@@ -223,6 +223,26 @@
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.py",
           "sha": "3ae9c7ed2c85b9780f80695c38a754e366d817cd",
           "lastSyncedAt": "2026-09-29T07:22:49.672Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2469",
+      "title": "Convert the Temperature",
+      "slug": "convert-the-temperature",
+      "problemName": "2469-convert-the-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-the-temperature/",
+      "folderPath": "2469-convert-the-temperature/",
+      "readmePath": "2469-convert-the-temperature/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2469-convert-the-temperature.py",
+          "path": "2469-convert-the-temperature/2469-convert-the-temperature.py",
+          "sha": "f591f4a9a0dce956cacf876d1ae245b0d05a75c0",
+          "lastSyncedAt": "2026-09-29T07:23:01.873Z"
         }
       ]
     },
