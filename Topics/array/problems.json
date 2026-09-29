@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:17:41.904Z",
+  "updatedAt": "2026-09-29T07:18:08.226Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0001-two-sum.py",
+          "path": "0001-two-sum/0001-two-sum.py",
+          "sha": "b9c226d500137fefef820ee713e7eecc25f168a1",
+          "lastSyncedAt": "2026-09-29T07:18:08.226Z"
+        }
+      ]
+    },
     {
       "frontendId": "14",
       "title": "Longest Common Prefix",
