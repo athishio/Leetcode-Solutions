@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-29T07:22:49.672Z",
+  "updatedAt": "2026-09-29T07:23:12.564Z",
   "problems": [
     {
       "frontendId": "67",
@@ -23,6 +23,26 @@
           "path": "0067-add-binary/0067-add-binary.py",
           "sha": "eefaba23087f42913539c5bb0b0a100e44b7c96d",
           "lastSyncedAt": "2026-09-29T07:15:36.828Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "0136-single-number/",
+      "readmePath": "0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0136-single-number.py",
+          "path": "0136-single-number/0136-single-number.py",
+          "sha": "b502ebbca6fe131b82fcbd42c446cb506e52341a",
+          "lastSyncedAt": "2026-09-29T07:23:12.564Z"
         }
       ]
     },
