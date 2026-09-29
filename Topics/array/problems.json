@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:23:12.564Z",
+  "updatedAt": "2026-09-29T07:23:49.947Z",
   "problems": [
     {
       "frontendId": "1",
@@ -523,6 +523,26 @@
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.py",
           "sha": "e3747723e7ab667a7065bd9b10eb5af24aeeb937",
           "lastSyncedAt": "2026-09-29T07:21:25.563Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1512-number-of-good-pairs.py",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
+          "sha": "d391b68f0daf4615a3157a996b42a31d7bd9ee47",
+          "lastSyncedAt": "2026-09-29T07:23:49.947Z"
         }
       ]
     }
