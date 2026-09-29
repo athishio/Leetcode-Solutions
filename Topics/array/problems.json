@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:16:25.757Z",
+  "updatedAt": "2026-09-29T07:17:09.538Z",
   "problems": [
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "0027-remove-element/",
+      "readmePath": "0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0027-remove-element.py",
+          "path": "0027-remove-element/0027-remove-element.py",
+          "sha": "464bfd9308100fc4bfbedbf48d3b04ac2c575213",
+          "lastSyncedAt": "2026-09-29T07:17:09.538Z"
+        }
+      ]
+    },
     {
       "frontendId": "35",
       "title": "Search Insert Position",
