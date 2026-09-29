@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:16:16.357Z",
+  "updatedAt": "2026-09-29T07:16:25.757Z",
   "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "0035-search-insert-position/",
+      "readmePath": "0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0035-search-insert-position.py",
+          "path": "0035-search-insert-position/0035-search-insert-position.py",
+          "sha": "1590cf49bba7941cceb1a7b1ed672516fa8399de",
+          "lastSyncedAt": "2026-09-29T07:16:25.757Z"
+        }
+      ]
+    },
     {
       "frontendId": "45",
       "title": "Jump Game II",
