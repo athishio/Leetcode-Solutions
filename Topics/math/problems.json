@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T07:23:34.891Z",
+  "updatedAt": "2026-09-29T07:23:49.947Z",
   "problems": [
     {
       "frontendId": "9",
@@ -283,6 +283,26 @@
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.py",
           "sha": "3ae9c7ed2c85b9780f80695c38a754e366d817cd",
           "lastSyncedAt": "2026-09-29T07:22:49.672Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1512-number-of-good-pairs.py",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
+          "sha": "d391b68f0daf4615a3157a996b42a31d7bd9ee47",
+          "lastSyncedAt": "2026-09-29T07:23:49.947Z"
         }
       ]
     },
