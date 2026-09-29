@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-29T13:57:36.355Z",
+  "updatedAt": "2026-09-29T14:02:10.109Z",
   "problems": [
     {
       "frontendId": "45",
@@ -102,7 +102,7 @@
           "filename": "0135-candy.py",
           "path": "0135-candy/0135-candy.py",
           "sha": "1e585eb75a3b7002ed4c451662adff8d3354a440",
-          "lastSyncedAt": "2026-09-29T13:57:36.355Z"
+          "lastSyncedAt": "2026-09-29T14:02:10.109Z"
         }
       ]
     },
