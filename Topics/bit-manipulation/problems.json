@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-29T07:23:19.439Z",
+  "updatedAt": "2026-09-29T07:23:34.891Z",
   "problems": [
     {
       "frontendId": "67",
@@ -83,6 +83,26 @@
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.py",
           "sha": "a5da963ae0d734ffb04051a33df24bca645e63a7",
           "lastSyncedAt": "2026-09-29T07:20:51.890Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "0231-power-of-two/",
+      "readmePath": "0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0231-power-of-two.py",
+          "path": "0231-power-of-two/0231-power-of-two.py",
+          "sha": "9d36e28148b75ec219aef6a6773dab05e9a0c146",
+          "lastSyncedAt": "2026-09-29T07:23:34.891Z"
         }
       ]
     },
