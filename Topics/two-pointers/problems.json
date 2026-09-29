@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-29T07:18:51.360Z",
+  "updatedAt": "2026-09-29T07:19:22.781Z",
   "problems": [
     {
       "frontendId": "15",
@@ -163,6 +163,26 @@
           "path": "0189-rotate-array/0189-rotate-array.py",
           "sha": "1ae4cba242dbc584068ce10de68fdcfb56bb2c9d",
           "lastSyncedAt": "2026-09-29T07:18:51.360Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "0344-reverse-string/",
+      "readmePath": "0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0344-reverse-string.py",
+          "path": "0344-reverse-string/0344-reverse-string.py",
+          "sha": "dc50a13036faf4214432eee9c36e2bbedb8efb9e",
+          "lastSyncedAt": "2026-09-29T07:19:22.781Z"
         }
       ]
     }
