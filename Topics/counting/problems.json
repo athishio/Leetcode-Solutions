@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-29T07:20:21.355Z",
+  "updatedAt": "2026-09-29T07:21:37.744Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,6 +23,26 @@
           "path": "0169-majority-element/0169-majority-element.py",
           "sha": "14997d2862ffb5a5dabec9bc16d9c00b21a45844",
           "lastSyncedAt": "2026-09-29T07:19:00.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "0383-ransom-note/",
+      "readmePath": "0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0383-ransom-note.py",
+          "path": "0383-ransom-note/0383-ransom-note.py",
+          "sha": "0cda32c39407cd72e37e4751adea8382786f1fa2",
+          "lastSyncedAt": "2026-09-29T07:21:37.744Z"
         }
       ]
     },
