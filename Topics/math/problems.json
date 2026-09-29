@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T07:23:28.343Z",
+  "updatedAt": "2026-09-29T07:23:34.891Z",
   "problems": [
     {
       "frontendId": "9",
@@ -143,6 +143,26 @@
           "path": "0189-rotate-array/0189-rotate-array.py",
           "sha": "1ae4cba242dbc584068ce10de68fdcfb56bb2c9d",
           "lastSyncedAt": "2026-09-29T07:18:51.360Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "0231-power-of-two/",
+      "readmePath": "0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0231-power-of-two.py",
+          "path": "0231-power-of-two/0231-power-of-two.py",
+          "sha": "9d36e28148b75ec219aef6a6773dab05e9a0c146",
+          "lastSyncedAt": "2026-09-29T07:23:34.891Z"
         }
       ]
     },
