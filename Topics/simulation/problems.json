@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-29T07:15:36.828Z",
+  "updatedAt": "2026-09-29T07:20:59.743Z",
   "problems": [
     {
       "frontendId": "67",
@@ -23,6 +23,26 @@
           "path": "0067-add-binary/0067-add-binary.py",
           "sha": "eefaba23087f42913539c5bb0b0a100e44b7c96d",
           "lastSyncedAt": "2026-09-29T07:15:36.828Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0258-add-digits.py",
+          "path": "0258-add-digits/0258-add-digits.py",
+          "sha": "1859f42bd902d73fabc4624f47213d2a64419262",
+          "lastSyncedAt": "2026-09-29T07:20:59.743Z"
         }
       ]
     }
