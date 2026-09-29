@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-09-29T07:16:00.091Z",
+  "problems": [
+    {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "problemName": "0058-length-of-last-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+      "folderPath": "0058-length-of-last-word/",
+      "readmePath": "0058-length-of-last-word/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0058-length-of-last-word.py",
+          "path": "0058-length-of-last-word/0058-length-of-last-word.py",
+          "sha": "7aead41b9b400bfea3d8813739e4fe74003bdd55",
+          "lastSyncedAt": "2026-09-29T07:16:00.091Z"
+        }
+      ]
+    }
+  ]
+}
