@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T07:20:59.743Z",
+  "updatedAt": "2026-09-29T07:21:18.895Z",
   "problems": [
     {
       "frontendId": "9",
@@ -163,6 +163,26 @@
           "path": "0258-add-digits/0258-add-digits.py",
           "sha": "1859f42bd902d73fabc4624f47213d2a64419262",
           "lastSyncedAt": "2026-09-29T07:20:59.743Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1281",
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "problemName": "1281-subtract-the-product-and-sum-of-digits-of-an-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "folderPath": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "readmePath": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1281-subtract-the-product-and-sum-of-digits-of-an-integer.py",
+          "path": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.py",
+          "sha": "a8d40aa52811cceab95ce9ee343a4e5d9f09448a",
+          "lastSyncedAt": "2026-09-29T07:21:18.895Z"
         }
       ]
     }
