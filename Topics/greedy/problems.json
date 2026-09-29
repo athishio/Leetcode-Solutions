@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-29T07:20:08.688Z",
+  "updatedAt": "2026-09-29T07:20:36.614Z",
   "problems": [
     {
       "frontendId": "45",
@@ -83,6 +83,26 @@
           "path": "0134-gas-station/0134-gas-station.py",
           "sha": "a594684cb32fe3604327a7da79b9ffc49ddda58e",
           "lastSyncedAt": "2026-09-29T07:18:35.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "409",
+      "title": "Longest Palindrome",
+      "slug": "longest-palindrome",
+      "problemName": "0409-longest-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome/",
+      "folderPath": "0409-longest-palindrome/",
+      "readmePath": "0409-longest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0409-longest-palindrome.py",
+          "path": "0409-longest-palindrome/0409-longest-palindrome.py",
+          "sha": "79479b0704afaf8d6e6dc48d7d08a733a70b4b32",
+          "lastSyncedAt": "2026-09-29T07:20:36.614Z"
         }
       ]
     },
