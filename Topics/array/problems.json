@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:24:10.028Z",
+  "updatedAt": "2026-09-29T07:24:15.525Z",
   "problems": [
     {
       "frontendId": "1",
@@ -583,6 +583,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
           "sha": "d391b68f0daf4615a3157a996b42a31d7bd9ee47",
           "lastSyncedAt": "2026-09-29T07:23:49.947Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2942",
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "problemName": "2942-find-words-containing-character",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-words-containing-character/",
+      "folderPath": "2942-find-words-containing-character/",
+      "readmePath": "2942-find-words-containing-character/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2942-find-words-containing-character.py",
+          "path": "2942-find-words-containing-character/2942-find-words-containing-character.py",
+          "sha": "09a47193bad4d511f2448e724b2e366936821839",
+          "lastSyncedAt": "2026-09-29T07:24:15.525Z"
         }
       ]
     }
