@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:24:15.525Z",
+  "updatedAt": "2026-09-29T07:24:23.334Z",
   "problems": [
     {
       "frontendId": "1",
@@ -583,6 +583,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
           "sha": "d391b68f0daf4615a3157a996b42a31d7bd9ee47",
           "lastSyncedAt": "2026-09-29T07:23:49.947Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2114",
+      "title": "Maximum Number of Words Found in Sentences",
+      "slug": "maximum-number-of-words-found-in-sentences",
+      "problemName": "2114-maximum-number-of-words-found-in-sentences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/",
+      "folderPath": "2114-maximum-number-of-words-found-in-sentences/",
+      "readmePath": "2114-maximum-number-of-words-found-in-sentences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2114-maximum-number-of-words-found-in-sentences.py",
+          "path": "2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.py",
+          "sha": "653a85896590ee374da798d66c7bb2f78fa793af",
+          "lastSyncedAt": "2026-09-29T07:24:23.334Z"
         }
       ]
     },
