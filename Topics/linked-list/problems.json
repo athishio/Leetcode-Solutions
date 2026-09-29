@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T07:17:23.789Z",
+  "updatedAt": "2026-09-29T07:20:00.790Z",
   "problems": [
     {
       "frontendId": "21",
@@ -43,6 +43,26 @@
           "path": "0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.py",
           "sha": "51115e6737fd98c4e8c88b0cc4c8de65b76888d5",
           "lastSyncedAt": "2026-09-29T07:14:44.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "0206-reverse-linked-list/",
+      "readmePath": "0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0206-reverse-linked-list.py",
+          "path": "0206-reverse-linked-list/0206-reverse-linked-list.py",
+          "sha": "2fb708be0517275af9c6b0fb4a7e58b897cad6c1",
+          "lastSyncedAt": "2026-09-29T07:20:00.790Z"
         }
       ]
     }
