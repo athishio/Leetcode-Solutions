@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:18:35.472Z",
+  "updatedAt": "2026-09-29T07:18:51.360Z",
   "problems": [
     {
       "frontendId": "1",
@@ -303,6 +303,26 @@
           "path": "0134-gas-station/0134-gas-station.py",
           "sha": "a594684cb32fe3604327a7da79b9ffc49ddda58e",
           "lastSyncedAt": "2026-09-29T07:18:35.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0189-rotate-array.py",
+          "path": "0189-rotate-array/0189-rotate-array.py",
+          "sha": "1ae4cba242dbc584068ce10de68fdcfb56bb2c9d",
+          "lastSyncedAt": "2026-09-29T07:18:51.360Z"
         }
       ]
     },
