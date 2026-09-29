@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:18:08.226Z",
+  "updatedAt": "2026-09-29T07:18:23.994Z",
   "problems": [
     {
       "frontendId": "1",
@@ -283,6 +283,26 @@
           "path": "0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.py",
           "sha": "fbf1233284d9d2e2caef1d4166a8ca223c57da24",
           "lastSyncedAt": "2026-09-29T07:14:12.419Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "274",
+      "title": "H-Index",
+      "slug": "h-index",
+      "problemName": "0274-h-index",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/h-index/",
+      "folderPath": "0274-h-index/",
+      "readmePath": "0274-h-index/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0274-h-index.py",
+          "path": "0274-h-index/0274-h-index.py",
+          "sha": "d94c47ffc7cd318f81ca8bc5bb6c56423a04bcb7",
+          "lastSyncedAt": "2026-09-29T07:18:23.994Z"
         }
       ]
     }
