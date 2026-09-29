@@ -4,6 +4,27 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-29T07:13:33.935Z",
-  "problems": []
+  "updatedAt": "2026-09-29T07:14:59.137Z",
+  "problems": [
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "0074-search-a-2d-matrix/",
+      "readmePath": "0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0074-search-a-2d-matrix.py",
+          "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.py",
+          "sha": "286ad14b766e8c2a01be171339338bd945606321",
+          "lastSyncedAt": "2026-09-29T07:14:59.137Z"
+        }
+      ]
+    }
+  ]
 }
