@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T14:04:36.430Z",
+  "updatedAt": "2026-09-29T14:11:17.712Z",
   "problems": [
     {
       "frontendId": "1",
@@ -322,7 +322,7 @@
           "filename": "0135-candy.py",
           "path": "0135-candy/0135-candy.py",
           "sha": "1e585eb75a3b7002ed4c451662adff8d3354a440",
-          "lastSyncedAt": "2026-09-29T14:04:36.430Z"
+          "lastSyncedAt": "2026-09-29T14:11:17.712Z"
         }
       ]
     },
