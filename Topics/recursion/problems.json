@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-29T07:23:34.891Z",
+  "updatedAt": "2026-09-29T07:23:43.511Z",
   "problems": [
     {
       "frontendId": "21",
@@ -23,6 +23,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
           "sha": "27aa8342e05680e0073906484252ab091825a190",
           "lastSyncedAt": "2026-09-29T07:17:23.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "problemName": "0203-remove-linked-list-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "folderPath": "0203-remove-linked-list-elements/",
+      "readmePath": "0203-remove-linked-list-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0203-remove-linked-list-elements.py",
+          "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.py",
+          "sha": "8b68c91d5cfd9742c3a96f0ee8ef5f2399d5fd20",
+          "lastSyncedAt": "2026-09-29T07:23:43.511Z"
         }
       ]
     },
