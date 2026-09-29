@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-29T07:21:37.744Z",
+  "updatedAt": "2026-09-29T07:22:40.523Z",
   "problems": [
     {
       "frontendId": "13",
@@ -303,6 +303,26 @@
           "path": "0409-longest-palindrome/0409-longest-palindrome.py",
           "sha": "79479b0704afaf8d6e6dc48d7d08a733a70b4b32",
           "lastSyncedAt": "2026-09-29T07:20:36.614Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0412-fizz-buzz.py",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.py",
+          "sha": "fdebde2ef917f1684b7cb00766ce8aa2404aa1b0",
+          "lastSyncedAt": "2026-09-29T07:22:40.523Z"
         }
       ]
     }
