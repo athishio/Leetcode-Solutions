@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-29T07:19:48.593Z",
+  "updatedAt": "2026-09-29T07:20:51.890Z",
   "problems": [
     {
       "frontendId": "67",
@@ -23,6 +23,26 @@
           "path": "0067-add-binary/0067-add-binary.py",
           "sha": "eefaba23087f42913539c5bb0b0a100e44b7c96d",
           "lastSyncedAt": "2026-09-29T07:15:36.828Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "0191-number-of-1-bits/",
+      "readmePath": "0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0191-number-of-1-bits.py",
+          "path": "0191-number-of-1-bits/0191-number-of-1-bits.py",
+          "sha": "a5da963ae0d734ffb04051a33df24bca645e63a7",
+          "lastSyncedAt": "2026-09-29T07:20:51.890Z"
         }
       ]
     },
