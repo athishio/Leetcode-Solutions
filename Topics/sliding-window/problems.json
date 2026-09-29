@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sliding-window",
+    "name": "Sliding Window"
+  },
+  "updatedAt": "2026-09-29T07:21:47.780Z",
+  "problems": [
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "0219-contains-duplicate-ii/",
+      "readmePath": "0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0219-contains-duplicate-ii.py",
+          "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.py",
+          "sha": "00a8172dc09f7572b69f2406750051f896072808",
+          "lastSyncedAt": "2026-09-29T07:21:47.780Z"
+        }
+      ]
+    }
+  ]
+}
