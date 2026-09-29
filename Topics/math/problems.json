@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T07:23:07.499Z",
+  "updatedAt": "2026-09-29T07:23:19.439Z",
   "problems": [
     {
       "frontendId": "9",
@@ -163,6 +163,26 @@
           "path": "0258-add-digits/0258-add-digits.py",
           "sha": "1859f42bd902d73fabc4624f47213d2a64419262",
           "lastSyncedAt": "2026-09-29T07:20:59.743Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "0342-power-of-four/",
+      "readmePath": "0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0342-power-of-four.py",
+          "path": "0342-power-of-four/0342-power-of-four.py",
+          "sha": "ca9d2f743d2fa27f120de935d860aa1613e817fe",
+          "lastSyncedAt": "2026-09-29T07:23:19.439Z"
         }
       ]
     },
