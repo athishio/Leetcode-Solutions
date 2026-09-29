@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:22:32.736Z",
+  "updatedAt": "2026-09-29T07:23:12.564Z",
   "problems": [
     {
       "frontendId": "1",
@@ -303,6 +303,26 @@
           "path": "0134-gas-station/0134-gas-station.py",
           "sha": "a594684cb32fe3604327a7da79b9ffc49ddda58e",
           "lastSyncedAt": "2026-09-29T07:18:35.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "0136-single-number/",
+      "readmePath": "0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0136-single-number.py",
+          "path": "0136-single-number/0136-single-number.py",
+          "sha": "b502ebbca6fe131b82fcbd42c446cb506e52341a",
+          "lastSyncedAt": "2026-09-29T07:23:12.564Z"
         }
       ]
     },
