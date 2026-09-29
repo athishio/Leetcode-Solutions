@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-29T07:18:35.472Z",
+  "updatedAt": "2026-09-29T07:20:08.688Z",
   "problems": [
     {
       "frontendId": "45",
@@ -83,6 +83,26 @@
           "path": "0134-gas-station/0134-gas-station.py",
           "sha": "a594684cb32fe3604327a7da79b9ffc49ddda58e",
           "lastSyncedAt": "2026-09-29T07:18:35.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "561",
+      "title": "Array Partition",
+      "slug": "array-partition",
+      "problemName": "0561-array-partition",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/array-partition/",
+      "folderPath": "0561-array-partition/",
+      "readmePath": "0561-array-partition/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0561-array-partition.py",
+          "path": "0561-array-partition/0561-array-partition.py",
+          "sha": "de54086af8f670d40d9ad18a9292b0ca6bad7b3b",
+          "lastSyncedAt": "2026-09-29T07:20:08.688Z"
         }
       ]
     }
