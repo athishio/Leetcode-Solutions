@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-29T07:16:07.348Z",
+  "updatedAt": "2026-09-29T07:16:16.357Z",
   "problems": [
+    {
+      "frontendId": "45",
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "problemName": "0045-jump-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+      "folderPath": "0045-jump-game-ii/",
+      "readmePath": "0045-jump-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0045-jump-game-ii.py",
+          "path": "0045-jump-game-ii/0045-jump-game-ii.py",
+          "sha": "36c72e4578c7dd59df688283b97710735e527931",
+          "lastSyncedAt": "2026-09-29T07:16:16.357Z"
+        }
+      ]
+    },
     {
       "frontendId": "55",
       "title": "Jump Game",
