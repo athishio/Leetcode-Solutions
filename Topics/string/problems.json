@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-29T07:16:33.535Z",
+  "updatedAt": "2026-09-29T07:16:46.967Z",
   "problems": [
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "sha": "a1ccb6e71c5ae93566bbff8f4eb9f6b69016ea17",
+          "lastSyncedAt": "2026-09-29T07:16:46.967Z"
+        }
+      ]
+    },
     {
       "frontendId": "32",
       "title": "Longest Valid Parentheses",
