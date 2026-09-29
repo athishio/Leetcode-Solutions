@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-29T07:20:59.743Z",
+  "updatedAt": "2026-09-29T07:22:40.523Z",
   "problems": [
     {
       "frontendId": "67",
@@ -43,6 +43,26 @@
           "path": "0258-add-digits/0258-add-digits.py",
           "sha": "1859f42bd902d73fabc4624f47213d2a64419262",
           "lastSyncedAt": "2026-09-29T07:20:59.743Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0412-fizz-buzz.py",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.py",
+          "sha": "fdebde2ef917f1684b7cb00766ce8aa2404aa1b0",
+          "lastSyncedAt": "2026-09-29T07:22:40.523Z"
         }
       ]
     }
