@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T07:21:59.179Z",
+  "updatedAt": "2026-09-29T07:22:13.097Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,6 +143,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
           "sha": "de1bf544cacb7adf7d1d7f94f770815d32152bbf",
           "lastSyncedAt": "2026-09-29T07:21:59.179Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "350",
+      "title": "Intersection of Two Arrays II",
+      "slug": "intersection-of-two-arrays-ii",
+      "problemName": "0350-intersection-of-two-arrays-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+      "folderPath": "0350-intersection-of-two-arrays-ii/",
+      "readmePath": "0350-intersection-of-two-arrays-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0350-intersection-of-two-arrays-ii.py",
+          "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.py",
+          "sha": "5cd8f7a139c75c2e11db1ace3537445d8bfcc6e0",
+          "lastSyncedAt": "2026-09-29T07:22:13.097Z"
         }
       ]
     },
