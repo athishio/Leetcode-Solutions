@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T07:22:49.672Z",
+  "updatedAt": "2026-09-29T07:22:56.219Z",
   "problems": [
     {
       "frontendId": "9",
@@ -223,6 +223,26 @@
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.py",
           "sha": "3ae9c7ed2c85b9780f80695c38a754e366d817cd",
           "lastSyncedAt": "2026-09-29T07:22:49.672Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2520",
+      "title": "Count the Digits That Divide a Number",
+      "slug": "count-the-digits-that-divide-a-number",
+      "problemName": "2520-count-the-digits-that-divide-a-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-digits-that-divide-a-number/",
+      "folderPath": "2520-count-the-digits-that-divide-a-number/",
+      "readmePath": "2520-count-the-digits-that-divide-a-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2520-count-the-digits-that-divide-a-number.py",
+          "path": "2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.py",
+          "sha": "e85bd45e46ad7adbdecb57795693f5a0e8fba5a9",
+          "lastSyncedAt": "2026-09-29T07:22:56.219Z"
         }
       ]
     }
