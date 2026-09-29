@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-29T07:24:30.278Z",
+  "updatedAt": "2026-09-29T07:24:38.788Z",
   "problems": [
     {
       "frontendId": "67",
@@ -63,6 +63,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.py",
           "sha": "fdebde2ef917f1684b7cb00766ce8aa2404aa1b0",
           "lastSyncedAt": "2026-09-29T07:22:40.523Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "1929-concatenation-of-array/",
+      "readmePath": "1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1929-concatenation-of-array.py",
+          "path": "1929-concatenation-of-array/1929-concatenation-of-array.py",
+          "sha": "87b43d4c1ea51f0608b158272e45a2300cde6f71",
+          "lastSyncedAt": "2026-09-29T07:24:38.788Z"
         }
       ]
     },
