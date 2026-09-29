@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-29T07:19:00.658Z",
+  "updatedAt": "2026-09-29T07:19:31.031Z",
   "problems": [
     {
       "frontendId": "15",
@@ -63,6 +63,26 @@
           "path": "0169-majority-element/0169-majority-element.py",
           "sha": "14997d2862ffb5a5dabec9bc16d9c00b21a45844",
           "lastSyncedAt": "2026-09-29T07:19:00.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0217-contains-duplicate.py",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.py",
+          "sha": "b1e659cc816413a80b7a8d9d0066077cfb6314d8",
+          "lastSyncedAt": "2026-09-29T07:19:31.031Z"
         }
       ]
     },
