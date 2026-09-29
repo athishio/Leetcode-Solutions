@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:19:00.658Z",
+  "updatedAt": "2026-09-29T07:19:31.031Z",
   "problems": [
     {
       "frontendId": "1",
@@ -343,6 +343,26 @@
           "path": "0189-rotate-array/0189-rotate-array.py",
           "sha": "1ae4cba242dbc584068ce10de68fdcfb56bb2c9d",
           "lastSyncedAt": "2026-09-29T07:18:51.360Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0217-contains-duplicate.py",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.py",
+          "sha": "b1e659cc816413a80b7a8d9d0066077cfb6314d8",
+          "lastSyncedAt": "2026-09-29T07:19:31.031Z"
         }
       ]
     },
