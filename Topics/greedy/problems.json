@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-29T07:20:36.614Z",
+  "updatedAt": "2026-09-29T13:57:36.355Z",
   "problems": [
     {
       "frontendId": "45",
@@ -83,6 +83,26 @@
           "path": "0134-gas-station/0134-gas-station.py",
           "sha": "a594684cb32fe3604327a7da79b9ffc49ddda58e",
           "lastSyncedAt": "2026-09-29T07:18:35.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "135",
+      "title": "Candy",
+      "slug": "candy",
+      "problemName": "0135-candy",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/candy/",
+      "folderPath": "0135-candy/",
+      "readmePath": "0135-candy/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0135-candy.py",
+          "path": "0135-candy/0135-candy.py",
+          "sha": "1e585eb75a3b7002ed4c451662adff8d3354a440",
+          "lastSyncedAt": "2026-09-29T13:57:36.355Z"
         }
       ]
     },
