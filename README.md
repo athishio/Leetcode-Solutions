@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 73 | 59 | 12 | 2 |
+| 74 | 59 | 13 | 2 |
 
 ## Activity
 
@@ -29,20 +29,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-09-27 | 1 |
 | 2026-09-28 | 2 |
 | 2026-09-29 | 2 |
-| 2026-09-30 | 2 |
+| 2026-09-30 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 52% |
-| String | 23 | 32% |
+| Array | 39 | 53% |
+| String | 23 | 31% |
 | Math | 19 | 26% |
 | Hash Table | 14 | 19% |
 | Two Pointers | 14 | 19% |
 | Sorting | 11 | 15% |
 | Bit Manipulation | 8 | 11% |
-| Greedy | 7 | 10% |
+| Greedy | 7 | 9% |
 | Dynamic Programming | 6 | 8% |
 | Recursion | 6 | 8% |
 
@@ -50,7 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 38 |
+| [Array](Topics/array/) | 39 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -76,7 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Memoization](Topics/memoization/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
 | [Randomized](Topics/randomized/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
