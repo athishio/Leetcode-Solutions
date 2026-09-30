@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 72 | 59 | 11 | 2 |
+| 73 | 59 | 12 | 2 |
 
 ## Activity
 
@@ -29,17 +29,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-09-27 | 1 |
 | 2026-09-28 | 2 |
 | 2026-09-29 | 2 |
-| 2026-09-30 | 1 |
+| 2026-09-30 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 37 | 51% |
+| Array | 38 | 52% |
 | String | 23 | 32% |
-| Math | 18 | 25% |
+| Math | 19 | 26% |
+| Hash Table | 14 | 19% |
 | Two Pointers | 14 | 19% |
-| Hash Table | 13 | 18% |
 | Sorting | 11 | 15% |
 | Bit Manipulation | 8 | 11% |
 | Greedy | 7 | 10% |
@@ -50,7 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 37 |
+| [Array](Topics/array/) | 38 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -61,22 +61,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Counting](Topics/counting/) | 4 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 7 |
-| [Hash Table](Topics/hash-table/) | 13 |
+| [Hash Table](Topics/hash-table/) | 14 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 18 |
+| [Math](Topics/math/) | 19 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 1 |
+| [Randomized](Topics/randomized/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
