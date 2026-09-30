@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 71 | 59 | 10 | 2 |
+| 72 | 59 | 11 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 14 days | 42 |
+| 7 days | 14 days | 43 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-02 | 1 |
 | 2026-08-03 | 1 |
 | 2026-08-04 | 1 |
 | 2026-08-08 | 1 |
@@ -30,15 +29,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-09-27 | 1 |
 | 2026-09-28 | 2 |
 | 2026-09-29 | 2 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 37 | 52% |
-| String | 22 | 31% |
+| Array | 37 | 51% |
+| String | 23 | 32% |
 | Math | 18 | 25% |
-| Two Pointers | 14 | 20% |
+| Two Pointers | 14 | 19% |
 | Hash Table | 13 | 18% |
 | Sorting | 11 | 15% |
 | Bit Manipulation | 8 | 11% |
@@ -57,7 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Bit Manipulation](Topics/bit-manipulation/) | 8 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Counting](Topics/counting/) | 4 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -81,8 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 11 |
-| [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 21 |
+| [Stack](Topics/stack/) | 3 |
+| [String](Topics/string/) | 22 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 14 |
