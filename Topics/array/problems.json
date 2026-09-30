@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T14:11:17.712Z",
+  "updatedAt": "2026-09-30T06:53:33.063Z",
   "problems": [
     {
       "frontendId": "1",
@@ -503,6 +503,26 @@
           "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.py",
           "sha": "5cd8f7a139c75c2e11db1ace3537445d8bfcc6e0",
           "lastSyncedAt": "2026-09-29T07:22:13.097Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "380",
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "problemName": "0380-insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+      "folderPath": "0380-insert-delete-getrandom-o1/",
+      "readmePath": "0380-insert-delete-getrandom-o1/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0380-insert-delete-getrandom-o1.py",
+          "path": "0380-insert-delete-getrandom-o1/0380-insert-delete-getrandom-o1.py",
+          "sha": "bc6de98e17ef9619b61bb9aad6eb74cf478318bb",
+          "lastSyncedAt": "2026-09-30T06:53:33.063Z"
         }
       ]
     },
