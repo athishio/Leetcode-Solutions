@@ -4,8 +4,28 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-29T07:24:01.074Z",
+  "updatedAt": "2026-09-30T07:27:28.009Z",
   "problems": [
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "0238-product-of-array-except-self/",
+      "readmePath": "0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0238-product-of-array-except-self.py",
+          "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.py",
+          "sha": "f2522a71dd382d76465a2529abd0ba976e447166",
+          "lastSyncedAt": "2026-09-30T07:27:28.009Z"
+        }
+      ]
+    },
     {
       "frontendId": "1480",
       "title": "Running Sum of 1d Array",
