@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-09-30T06:53:33.063Z",
+  "updatedAt": "2026-09-30T06:54:20.374Z",
   "problems": [
     {
       "frontendId": "380",
@@ -22,7 +22,7 @@
           "filename": "0380-insert-delete-getrandom-o1.py",
           "path": "0380-insert-delete-getrandom-o1/0380-insert-delete-getrandom-o1.py",
           "sha": "bc6de98e17ef9619b61bb9aad6eb74cf478318bb",
-          "lastSyncedAt": "2026-09-30T06:53:33.063Z"
+          "lastSyncedAt": "2026-09-30T06:54:20.374Z"
         }
       ]
     }
