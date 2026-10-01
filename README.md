@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 74 | 59 | 13 | 2 |
+| 75 | 59 | 14 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 14 days | 43 |
+| 8 days | 14 days | 44 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-03 | 1 |
 | 2026-08-04 | 1 |
 | 2026-08-08 | 1 |
 | 2026-09-08 | 2 |
@@ -30,14 +29,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-09-28 | 2 |
 | 2026-09-29 | 2 |
 | 2026-09-30 | 3 |
+| 2026-10-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 39 | 53% |
-| String | 23 | 31% |
-| Math | 19 | 26% |
+| Array | 39 | 52% |
+| String | 24 | 32% |
+| Math | 19 | 25% |
 | Hash Table | 14 | 19% |
 | Two Pointers | 14 | 19% |
 | Sorting | 11 | 15% |
@@ -84,7 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 22 |
+| [String](Topics/string/) | 23 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 14 |
