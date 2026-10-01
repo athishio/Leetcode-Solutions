@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-01T03:55:09.453Z",
+  "updatedAt": "2026-10-01T04:40:04.545Z",
   "problems": [
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "0006-zigzag-conversion/",
+      "readmePath": "0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0006-zigzag-conversion.py",
+          "path": "0006-zigzag-conversion/0006-zigzag-conversion.py",
+          "sha": "ab1906be137118208488b6c7af75f0f9f3755592",
+          "lastSyncedAt": "2026-10-01T04:40:04.545Z"
+        }
+      ]
+    },
     {
       "frontendId": "13",
       "title": "Roman to Integer",
