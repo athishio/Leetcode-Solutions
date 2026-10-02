@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-01T04:40:04.545Z",
+  "updatedAt": "2026-10-02T13:50:01.109Z",
   "problems": [
     {
       "frontendId": "6",
@@ -23,6 +23,26 @@
           "path": "0006-zigzag-conversion/0006-zigzag-conversion.py",
           "sha": "ab1906be137118208488b6c7af75f0f9f3755592",
           "lastSyncedAt": "2026-10-01T04:40:04.545Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "problemName": "0012-integer-to-roman",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+      "folderPath": "0012-integer-to-roman/",
+      "readmePath": "0012-integer-to-roman/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0012-integer-to-roman.py",
+          "path": "0012-integer-to-roman/0012-integer-to-roman.py",
+          "sha": "49c47251e18c4af7f49545aa3b49535513eda54c",
+          "lastSyncedAt": "2026-10-02T13:50:01.109Z"
         }
       ]
     },
