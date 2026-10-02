@@ -4,6 +4,27 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-29T07:13:33.935Z",
-  "problems": []
+  "updatedAt": "2026-10-02T13:52:16.901Z",
+  "problems": [
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0022-generate-parentheses.py",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.py",
+          "sha": "373848e816364fda380efbba2fccd30c14843ae8",
+          "lastSyncedAt": "2026-10-02T13:52:16.901Z"
+        }
+      ]
+    }
+  ]
 }
