@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 75 | 59 | 14 | 2 |
+| 76 | 59 | 15 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 14 days | 44 |
+| 9 days | 14 days | 45 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-04 | 1 |
 | 2026-08-08 | 1 |
 | 2026-09-08 | 2 |
 | 2026-09-20 | 1 |
@@ -30,17 +29,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-09-29 | 2 |
 | 2026-09-30 | 3 |
 | 2026-10-01 | 1 |
+| 2026-10-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 39 | 52% |
-| String | 24 | 32% |
-| Math | 19 | 25% |
-| Hash Table | 14 | 19% |
-| Two Pointers | 14 | 19% |
-| Sorting | 11 | 15% |
+| Array | 39 | 51% |
+| String | 25 | 33% |
+| Math | 20 | 26% |
+| Hash Table | 15 | 20% |
+| Two Pointers | 14 | 18% |
+| Sorting | 11 | 14% |
 | Bit Manipulation | 8 | 11% |
 | Greedy | 7 | 9% |
 | Dynamic Programming | 6 | 8% |
@@ -66,12 +66,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 7 |
-| [Hash Table](Topics/hash-table/) | 14 |
+| [Hash Table](Topics/hash-table/) | 15 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 19 |
+| [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
@@ -84,7 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 23 |
+| [String](Topics/string/) | 24 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 14 |
