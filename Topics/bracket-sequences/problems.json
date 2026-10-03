@@ -4,7 +4,7 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-10-02T13:52:16.901Z",
+  "updatedAt": "2026-10-03T15:59:51.143Z",
   "problems": [
     {
       "frontendId": "20",
@@ -62,7 +62,7 @@
           "filename": "0032-longest-valid-parentheses.py",
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "80fe18709659f76d4973abb6bed9852e94df9ea0",
-          "lastSyncedAt": "2026-09-29T07:16:33.535Z"
+          "lastSyncedAt": "2026-10-03T15:59:51.143Z"
         }
       ]
     },
