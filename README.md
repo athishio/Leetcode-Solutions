@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 79 | 60 | 17 | 2 |
+| 80 | 60 | 18 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 14 days | 47 |
+| 12 days | 14 days | 48 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-24 | 1 |
@@ -30,13 +29,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-02 | 2 |
 | 2026-10-03 | 1 |
 | 2026-10-04 | 1 |
+| 2026-10-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 39 | 49% |
-| String | 28 | 35% |
+| String | 29 | 36% |
 | Math | 20 | 25% |
 | Hash Table | 15 | 19% |
 | Two Pointers | 14 | 18% |
@@ -44,7 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Bit Manipulation | 8 | 10% |
 | Dynamic Programming | 8 | 10% |
 | Greedy | 8 | 10% |
-| Bracket Sequences | 6 | 8% |
+| Bracket Sequences | 7 | 9% |
 
 ## Topics
 
@@ -57,7 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Bit Manipulation](Topics/bit-manipulation/) | 8 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 6 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 7 |
 | [Counting](Topics/counting/) | 4 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -83,8 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 11 |
-| [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 27 |
+| [Stack](Topics/stack/) | 6 |
+| [String](Topics/string/) | 28 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 14 |
