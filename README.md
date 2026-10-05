@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 80 | 60 | 18 | 2 |
+| 81 | 60 | 19 | 2 |
 
 ## Activity
 
@@ -29,17 +29,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-02 | 2 |
 | 2026-10-03 | 1 |
 | 2026-10-04 | 1 |
-| 2026-10-05 | 1 |
+| 2026-10-05 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 39 | 49% |
+| Array | 39 | 48% |
 | String | 29 | 36% |
-| Math | 20 | 25% |
+| Math | 21 | 26% |
 | Hash Table | 15 | 19% |
-| Two Pointers | 14 | 18% |
+| Two Pointers | 14 | 17% |
 | Sorting | 11 | 14% |
 | Bit Manipulation | 8 | 10% |
 | Dynamic Programming | 8 | 10% |
@@ -70,8 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 20 |
+| [Linked List](Topics/linked-list/) | 5 |
+| [Math](Topics/math/) | 21 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
@@ -79,7 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
 | [Randomized](Topics/randomized/) | 1 |
-| [Recursion](Topics/recursion/) | 6 |
+| [Recursion](Topics/recursion/) | 7 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 11 |
