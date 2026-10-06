@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-05T08:23:02.591Z",
+  "updatedAt": "2026-10-06T13:41:05.581Z",
   "problems": [
     {
       "frontendId": "20",
@@ -83,6 +83,26 @@
           "path": "0856-score-of-parentheses/0856-score-of-parentheses.py",
           "sha": "4e0d22d7ed536d596d6b1c1c7f91fc438e536529",
           "lastSyncedAt": "2026-10-05T08:23:02.591Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "problemName": "0921-minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "folderPath": "0921-minimum-add-to-make-parentheses-valid/",
+      "readmePath": "0921-minimum-add-to-make-parentheses-valid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0921-minimum-add-to-make-parentheses-valid.py",
+          "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.py",
+          "sha": "74b3ad208e6ba8fa35adffd58320e4c65dee21b2",
+          "lastSyncedAt": "2026-10-06T13:41:05.581Z"
         }
       ]
     },
