@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-10-02T13:52:16.901Z",
+  "updatedAt": "2026-10-07T15:49:57.532Z",
   "problems": [
     {
       "frontendId": "22",
@@ -23,6 +23,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.py",
           "sha": "373848e816364fda380efbba2fccd30c14843ae8",
           "lastSyncedAt": "2026-10-02T13:52:16.901Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "301",
+      "title": "Remove Invalid Parentheses",
+      "slug": "remove-invalid-parentheses",
+      "problemName": "0301-remove-invalid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+      "folderPath": "0301-remove-invalid-parentheses/",
+      "readmePath": "0301-remove-invalid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0301-remove-invalid-parentheses.py",
+          "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.py",
+          "sha": "6ca5dffab38339d8bd9b5f98bf85a4d1ceeaee68",
+          "lastSyncedAt": "2026-10-07T15:49:57.532Z"
         }
       ]
     }
