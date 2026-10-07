@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 82 | 60 | 20 | 2 |
+| 83 | 60 | 20 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 13 days | 14 days | 49 |
+| 14 days | 14 days | 50 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-22 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
 | 2026-09-26 | 1 |
@@ -30,14 +29,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-04 | 1 |
 | 2026-10-05 | 2 |
 | 2026-10-06 | 1 |
+| 2026-10-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 39 | 48% |
-| String | 30 | 37% |
-| Math | 21 | 26% |
+| Array | 39 | 47% |
+| String | 31 | 37% |
+| Math | 21 | 25% |
 | Hash Table | 15 | 18% |
 | Two Pointers | 14 | 17% |
 | Sorting | 11 | 13% |
@@ -51,13 +51,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 39 |
-| [Backtracking](Topics/backtracking/) | 1 |
+| [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 8 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 8 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Counting](Topics/counting/) | 4 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -84,7 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 7 |
-| [String](Topics/string/) | 29 |
+| [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 14 |
