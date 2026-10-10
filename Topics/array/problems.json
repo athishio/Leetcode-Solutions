@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-09-30T07:27:28.009Z",
+  "updatedAt": "2026-10-10T10:32:32.840Z",
   "problems": [
     {
       "frontendId": "1",
@@ -763,6 +764,26 @@
           "path": "2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.py",
           "sha": "653a85896590ee374da798d66c7bb2f78fa793af",
           "lastSyncedAt": "2026-09-29T07:24:23.334Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "2333-minimum-sum-of-squared-difference/",
+      "readmePath": "2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2333-minimum-sum-of-squared-difference.py",
+          "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.py",
+          "sha": "cc59b1c1e7b447c56bcaa1d1e5caecd8ba239eeb",
+          "lastSyncedAt": "2026-10-10T10:32:32.840Z"
         }
       ]
     },
