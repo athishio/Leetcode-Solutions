@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T10:32:32.840Z",
+  "updatedAt": "2026-10-11T04:00:30.602Z",
   "problems": [
     {
       "frontendId": "1",
@@ -784,6 +784,26 @@
           "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.py",
           "sha": "cc59b1c1e7b447c56bcaa1d1e5caecd8ba239eeb",
           "lastSyncedAt": "2026-10-10T10:32:32.840Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "2778-sum-of-squares-of-special-elements/",
+      "readmePath": "2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2778-sum-of-squares-of-special-elements.py",
+          "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.py",
+          "sha": "808edd61db6fafe09fbb54d741bc90cb5526e52c",
+          "lastSyncedAt": "2026-10-11T04:00:30.602Z"
         }
       ]
     },
