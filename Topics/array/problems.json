@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T04:01:40.043Z",
+  "updatedAt": "2026-10-13T11:54:01.552Z",
   "problems": [
     {
       "frontendId": "1",
@@ -824,6 +824,26 @@
           "path": "2942-find-words-containing-character/2942-find-words-containing-character.py",
           "sha": "09a47193bad4d511f2448e724b2e366936821839",
           "lastSyncedAt": "2026-09-29T07:24:15.525Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "slug": "maximum-alternating-sum-of-squares",
+      "problemName": "3727-maximum-alternating-sum-of-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+      "folderPath": "3727-maximum-alternating-sum-of-squares/",
+      "readmePath": "3727-maximum-alternating-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3727-maximum-alternating-sum-of-squares.py",
+          "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.py",
+          "sha": "8e347b47de87f9bd43db66b3bcc7ce491006025d",
+          "lastSyncedAt": "2026-10-13T11:54:01.552Z"
         }
       ]
     }
