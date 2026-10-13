@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 87 | 62 | 22 | 3 |
+| 88 | 62 | 22 | 4 |
 
 ## Activity
 
@@ -29,32 +29,32 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-08 | 1 |
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
-| 2026-10-13 | 1 |
+| 2026-10-13 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 42 | 48% |
-| String | 32 | 37% |
+| Array | 43 | 49% |
+| String | 32 | 36% |
 | Math | 21 | 24% |
-| Hash Table | 15 | 17% |
+| Hash Table | 16 | 18% |
 | Two Pointers | 14 | 16% |
 | Sorting | 13 | 15% |
-| Greedy | 11 | 13% |
+| Greedy | 12 | 14% |
+| Bit Manipulation | 9 | 10% |
 | Bracket Sequences | 9 | 10% |
-| Bit Manipulation | 8 | 9% |
 | Dynamic Programming | 8 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 42 |
+| [Array](Topics/array/) | 43 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 8 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 9 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 9 |
@@ -67,8 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 11 |
-| [Hash Table](Topics/hash-table/) | 15 |
+| [Greedy](Topics/greedy/) | 12 |
+| [Hash Table](Topics/hash-table/) | 16 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
