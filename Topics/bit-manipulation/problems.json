@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "bit-manipulation",
-    "name": "Bit Manipulation"
+    "name": "Bit Manipulation",
+    "tagId": "19"
   },
-  "updatedAt": "2026-09-29T07:23:34.891Z",
+  "updatedAt": "2026-10-13T13:56:51.845Z",
   "problems": [
     {
       "frontendId": "67",
@@ -163,6 +164,26 @@
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.py",
           "sha": "3ae9c7ed2c85b9780f80695c38a754e366d817cd",
           "lastSyncedAt": "2026-09-29T07:22:49.672Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2897",
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "problemName": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
+      "folderPath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/",
+      "readmePath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
+          "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
+          "sha": "a2b179a56bf5601b278d7f45eef99f391c283b98",
+          "lastSyncedAt": "2026-10-13T13:56:51.845Z"
         }
       ]
     }
