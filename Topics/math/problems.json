@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-10-05T08:52:19.262Z",
+  "updatedAt": "2026-10-14T07:15:59.179Z",
   "problems": [
     {
       "frontendId": "2",
@@ -423,6 +424,26 @@
           "path": "2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.py",
           "sha": "e85bd45e46ad7adbdecb57795693f5a0e8fba5a9",
           "lastSyncedAt": "2026-09-29T07:22:56.219Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3723",
+      "title": "Maximize Sum of Squares of Digits",
+      "slug": "maximize-sum-of-squares-of-digits",
+      "problemName": "3723-maximize-sum-of-squares-of-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/",
+      "folderPath": "3723-maximize-sum-of-squares-of-digits/",
+      "readmePath": "3723-maximize-sum-of-squares-of-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3723-maximize-sum-of-squares-of-digits.py",
+          "path": "3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.py",
+          "sha": "567ebac742b0b90bd6773aa8925958649b399b76",
+          "lastSyncedAt": "2026-10-14T07:15:59.179Z"
         }
       ]
     }
