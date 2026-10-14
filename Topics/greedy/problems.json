@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T13:56:51.845Z",
+  "updatedAt": "2026-10-14T07:15:59.179Z",
   "problems": [
     {
       "frontendId": "45",
@@ -224,6 +224,26 @@
           "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
           "sha": "a2b179a56bf5601b278d7f45eef99f391c283b98",
           "lastSyncedAt": "2026-10-13T13:56:51.845Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3723",
+      "title": "Maximize Sum of Squares of Digits",
+      "slug": "maximize-sum-of-squares-of-digits",
+      "problemName": "3723-maximize-sum-of-squares-of-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/",
+      "folderPath": "3723-maximize-sum-of-squares-of-digits/",
+      "readmePath": "3723-maximize-sum-of-squares-of-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3723-maximize-sum-of-squares-of-digits.py",
+          "path": "3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.py",
+          "sha": "567ebac742b0b90bd6773aa8925958649b399b76",
+          "lastSyncedAt": "2026-10-14T07:15:59.179Z"
         }
       ]
     },
