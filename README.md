@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 90 | 62 | 24 | 4 |
+| 91 | 62 | 25 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 15 days | 56 |
+| 2 days | 15 days | 57 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-30 | 3 |
 | 2026-10-01 | 1 |
 | 2026-10-02 | 2 |
 | 2026-10-03 | 1 |
@@ -30,18 +29,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-13 | 2 |
 | 2026-10-14 | 1 |
 | 2026-10-16 | 1 |
+| 2026-10-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 43 | 48% |
-| String | 33 | 37% |
+| Array | 44 | 48% |
+| String | 33 | 36% |
 | Math | 22 | 24% |
-| Hash Table | 16 | 18% |
-| Greedy | 14 | 16% |
-| Two Pointers | 14 | 16% |
-| Sorting | 13 | 14% |
+| Hash Table | 17 | 19% |
+| Greedy | 14 | 15% |
+| Sorting | 14 | 15% |
+| Two Pointers | 14 | 15% |
 | Bracket Sequences | 10 | 11% |
 | Bit Manipulation | 9 | 10% |
 | Stack | 9 | 10% |
@@ -50,7 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 43 |
+| [Array](Topics/array/) | 44 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -68,7 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 14 |
-| [Hash Table](Topics/hash-table/) | 16 |
+| [Hash Table](Topics/hash-table/) | 17 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -84,7 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Recursion](Topics/recursion/) | 7 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 13 |
+| [Sorting](Topics/sorting/) | 14 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 32 |
 | [String Matching](Topics/string-matching/) | 1 |
