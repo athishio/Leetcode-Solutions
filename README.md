@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 91 | 62 | 25 | 4 |
+| 92 | 63 | 25 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 15 days | 57 |
+| 3 days | 15 days | 58 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-01 | 1 |
 | 2026-10-02 | 2 |
 | 2026-10-03 | 1 |
 | 2026-10-04 | 1 |
@@ -30,15 +29,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-14 | 1 |
 | 2026-10-16 | 1 |
 | 2026-10-17 | 1 |
+| 2026-10-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 44 | 48% |
+| Array | 45 | 49% |
 | String | 33 | 36% |
 | Math | 22 | 24% |
-| Hash Table | 17 | 19% |
+| Hash Table | 18 | 20% |
 | Greedy | 14 | 15% |
 | Sorting | 14 | 15% |
 | Two Pointers | 14 | 15% |
@@ -50,8 +50,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 44 |
+| [Array](Topics/array/) | 45 |
 | [Backtracking](Topics/backtracking/) | 2 |
+| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 9 |
@@ -68,7 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 14 |
-| [Hash Table](Topics/hash-table/) | 17 |
+| [Hash Table](Topics/hash-table/) | 18 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Queue](Topics/queue/) | 1 |
 | [Randomized](Topics/randomized/) | 1 |
 | [Recursion](Topics/recursion/) | 7 |
+| [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 14 |
