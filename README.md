@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 92 | 63 | 25 | 4 |
+| 93 | 64 | 25 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 15 days | 58 |
+| 4 days | 15 days | 59 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-02 | 2 |
 | 2026-10-03 | 1 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 2 |
@@ -30,17 +29,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-16 | 1 |
 | 2026-10-17 | 1 |
 | 2026-10-18 | 1 |
+| 2026-10-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 45 | 49% |
-| String | 33 | 36% |
+| Array | 46 | 49% |
+| String | 33 | 35% |
 | Math | 22 | 24% |
-| Hash Table | 18 | 20% |
+| Hash Table | 18 | 19% |
+| Sorting | 15 | 16% |
 | Greedy | 14 | 15% |
-| Sorting | 14 | 15% |
 | Two Pointers | 14 | 15% |
 | Bracket Sequences | 10 | 11% |
 | Bit Manipulation | 9 | 10% |
@@ -50,10 +50,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 45 |
+| [Array](Topics/array/) | 46 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 6 |
+| [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 9 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -86,7 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 14 |
+| [Sorting](Topics/sorting/) | 15 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 32 |
 | [String Matching](Topics/string-matching/) | 1 |
