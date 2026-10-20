@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-14T07:15:59.179Z",
+  "updatedAt": "2026-10-20T12:57:35.292Z",
   "problems": [
     {
       "frontendId": "2",
@@ -424,6 +424,26 @@
           "path": "2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.py",
           "sha": "e85bd45e46ad7adbdecb57795693f5a0e8fba5a9",
           "lastSyncedAt": "2026-09-29T07:22:56.219Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "folderPath": "3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3550-smallest-index-with-digit-sum-equal-to-index.py",
+          "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.py",
+          "sha": "f7604f73cdae0b05d0131cc461bf0ce2a6f2e95a",
+          "lastSyncedAt": "2026-10-20T12:57:35.292Z"
         }
       ]
     },
