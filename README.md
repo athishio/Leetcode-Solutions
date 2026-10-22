@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 95 | 65 | 26 | 4 |
+| 96 | 66 | 26 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 15 days | 61 |
+| 7 days | 15 days | 62 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-05 | 2 |
 | 2026-10-06 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
@@ -30,19 +29,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-21 | 1 |
+| 2026-10-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 47 | 49% |
-| String | 34 | 36% |
+| String | 35 | 36% |
 | Math | 23 | 24% |
 | Hash Table | 18 | 19% |
 | Sorting | 15 | 16% |
 | Greedy | 14 | 15% |
 | Two Pointers | 14 | 15% |
-| Bracket Sequences | 10 | 11% |
+| Bracket Sequences | 10 | 10% |
 | Bit Manipulation | 9 | 9% |
 | Stack | 9 | 9% |
 
@@ -84,11 +84,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Randomized](Topics/randomized/) | 1 |
 | [Recursion](Topics/recursion/) | 7 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 5 |
+| [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 15 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 33 |
+| [String](Topics/string/) | 34 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 14 |
