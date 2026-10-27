@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 96 | 66 | 26 | 4 |
+| 97 | 67 | 26 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 15 days | 62 |
+| 1 days | 15 days | 63 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-06 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
 | 2026-10-10 | 1 |
@@ -30,18 +29,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-20 | 1 |
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
+| 2026-10-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 47 | 49% |
+| Array | 47 | 48% |
 | String | 35 | 36% |
 | Math | 23 | 24% |
 | Hash Table | 18 | 19% |
-| Sorting | 15 | 16% |
-| Greedy | 14 | 15% |
-| Two Pointers | 14 | 15% |
+| Sorting | 15 | 15% |
+| Greedy | 14 | 14% |
+| Two Pointers | 14 | 14% |
 | Bracket Sequences | 10 | 10% |
 | Bit Manipulation | 9 | 9% |
 | Stack | 9 | 9% |
