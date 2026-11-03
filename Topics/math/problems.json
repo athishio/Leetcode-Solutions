@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-20T12:57:35.292Z",
+  "updatedAt": "2026-11-03T04:12:29.112Z",
   "problems": [
     {
       "frontendId": "2",
@@ -464,6 +464,26 @@
           "path": "3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.py",
           "sha": "567ebac742b0b90bd6773aa8925958649b399b76",
           "lastSyncedAt": "2026-10-14T07:15:59.179Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.py",
+          "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.py",
+          "sha": "c0fc397fa20dabae65c1757375ab111ff5bd169a",
+          "lastSyncedAt": "2026-11-03T04:12:29.112Z"
         }
       ]
     }
