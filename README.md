@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 97 | 67 | 26 | 4 |
+| 98 | 68 | 26 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 15 days | 63 |
+| 1 days | 15 days | 64 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
@@ -30,15 +29,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-27 | 1 |
+| 2026-11-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 47 | 48% |
+| Array | 48 | 49% |
 | String | 35 | 36% |
-| Math | 23 | 24% |
-| Hash Table | 18 | 19% |
+| Math | 24 | 24% |
+| Hash Table | 18 | 18% |
 | Sorting | 15 | 15% |
 | Greedy | 14 | 14% |
 | Two Pointers | 14 | 14% |
@@ -50,7 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 47 |
+| [Array](Topics/array/) | 48 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 7 |
@@ -74,7 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 23 |
+| [Math](Topics/math/) | 24 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
