@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T12:57:35.292Z",
+  "updatedAt": "2026-11-03T04:12:29.112Z",
   "problems": [
     {
       "frontendId": "1",
@@ -944,6 +944,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.py",
           "sha": "8e347b47de87f9bd43db66b3bcc7ce491006025d",
           "lastSyncedAt": "2026-10-13T11:58:31.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.py",
+          "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.py",
+          "sha": "c0fc397fa20dabae65c1757375ab111ff5bd169a",
+          "lastSyncedAt": "2026-11-03T04:12:29.112Z"
         }
       ]
     }
