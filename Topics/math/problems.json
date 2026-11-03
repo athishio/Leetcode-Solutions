@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-03T04:14:35.151Z",
+  "updatedAt": "2026-11-03T04:14:52.769Z",
   "problems": [
     {
       "frontendId": "2",
@@ -483,7 +483,7 @@
           "filename": "3736-minimum-moves-to-equal-array-elements-iii.py",
           "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.py",
           "sha": "c0fc397fa20dabae65c1757375ab111ff5bd169a",
-          "lastSyncedAt": "2026-11-03T04:14:35.151Z"
+          "lastSyncedAt": "2026-11-03T04:14:52.769Z"
         }
       ]
     }
