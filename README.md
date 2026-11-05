@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 98 | 68 | 26 | 4 |
+| 99 | 69 | 26 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 15 days | 64 |
+| 1 days | 15 days | 65 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-08 | 1 |
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
 | 2026-10-13 | 2 |
@@ -30,18 +29,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-22 | 1 |
 | 2026-10-27 | 1 |
 | 2026-11-03 | 1 |
+| 2026-11-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 49% |
-| String | 35 | 36% |
+| Array | 49 | 49% |
+| String | 35 | 35% |
 | Math | 24 | 24% |
 | Hash Table | 18 | 18% |
-| Sorting | 15 | 15% |
+| Sorting | 16 | 16% |
+| Two Pointers | 15 | 15% |
 | Greedy | 14 | 14% |
-| Two Pointers | 14 | 14% |
 | Bracket Sequences | 10 | 10% |
 | Bit Manipulation | 9 | 9% |
 | Stack | 9 | 9% |
@@ -50,10 +50,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 48 |
+| [Array](Topics/array/) | 49 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 7 |
+| [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 9 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -86,11 +86,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 15 |
+| [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 34 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 14 |
+| [Two Pointers](Topics/two-pointers/) | 15 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
